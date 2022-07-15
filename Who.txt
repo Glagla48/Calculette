@@ -1,0 +1,3 @@
+Notre groupe pour le devoir maison de théorie des langages et compilation est composé des membres suivants:
+- Lea Karbevska 21711436
+- Eric Hu 21713256

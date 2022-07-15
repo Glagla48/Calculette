@@ -1,0 +1,10 @@
+int i = 1; // initialisation
+
+while( i < 4 ) // condition de boucle toujours vraie
+{
+  i++; // incrémentation
+  break; // sortie de boucle
+  write(i); // affichage de $i
+}
+
+write(i)
